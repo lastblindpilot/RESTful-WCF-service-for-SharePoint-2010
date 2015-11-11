@@ -1,1 +1,1 @@
-# Simple RESTful WCF Service for SharePoin 2010
+# Simple RESTful WCF Service for SharePoint 2010
